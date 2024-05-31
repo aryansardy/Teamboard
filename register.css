@@ -1,0 +1,14 @@
+a, button{
+    display: block;
+}
+.register{
+    background-color: grey;
+    height: 200px;
+    width: 300px;
+
+}
+.widget{
+    display: flex;
+    justify-content: center;
+    
+}

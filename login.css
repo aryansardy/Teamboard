@@ -1,0 +1,28 @@
+button{
+    display: inline;
+    height: 40px;
+    width: auto;
+    background-color: black;
+    color: white;
+}
+.buttons{
+    display: grid;
+    grid-template-columns: 1fr 1fr
+}
+
+.login{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid Black;
+    box-shadow: 5px 10px #111111;
+    height: 300px;
+    width:400px;
+
+}
+.widget{
+    display: flex;
+    justify-content: center;
+    
+}
+a{
+    display: block;
+}
